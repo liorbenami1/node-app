@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "hello jenkins test app",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "supertest": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liorbenami1/node-app.git"
+  },
+  "author": "Lior Ben Ami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liorbenami1/node-app/issues"
+  },
+  "homepage": "https://github.com/liorbenami1/node-app#readme"
+}
